@@ -2,6 +2,7 @@
 
 # Project's I've worked on 
 [Eclipse](https://github.com/VeryCoolMoment/Eclipse-Language)
+[Simple Text Editor (Placeholder name)](https://github.com/VeryCoolMoment/Simple-Text-Editor)
 
 
 # Stats and other apps 
